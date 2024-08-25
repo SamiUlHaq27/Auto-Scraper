@@ -1,2 +1,2 @@
 # Auto-Scraper
- Automating scrapy project over dynamic urls
+ Scrapy spiders and runner for automated scraping from sms24.me.
